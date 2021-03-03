@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1614745710 source:d:\1afaculdade\pod\atv1\insertion&bubblesorte\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblio.h"
+
+1614745675 d:\1afaculdade\pod\atv1\insertion&bubblesorte\biblio.h
+
+1614751012 source:d:\1afaculdade\pod\atv1\insertion&bubblesorte\biblio.c
+	"biblio.h"
+
